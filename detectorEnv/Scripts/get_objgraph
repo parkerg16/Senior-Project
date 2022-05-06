@@ -1,0 +1,4 @@
+#!C:\Users\Parker\licenseplate\detectorEnv\scripts\python.exe
+# EASY-INSTALL-SCRIPT: 'dill==0.3.1.1','get_objgraph'
+__requires__ = 'dill==0.3.1.1'
+__import__('pkg_resources').run_script('dill==0.3.1.1', 'get_objgraph')
