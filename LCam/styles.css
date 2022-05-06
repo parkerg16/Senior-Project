@@ -1,0 +1,23 @@
+/* CSS Document */
+/*General CSS*/
+html, body 
+{
+	margin:0px;
+	height:100%;
+}
+.main_container
+{
+	margin:2vh;
+	height:95%;
+	background: cyan;
+}
+.cover {
+	object-fit: cover;
+	height: 100px;
+	width: auto;
+}
+img {
+	width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+	object-fit: contain;
+}

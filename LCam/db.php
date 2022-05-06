@@ -1,0 +1,1 @@
+<? $db = new PDO("mysql:host=db5007090007.hosting-data.io; dbname=dbs5844602;", "dbu1631256", "Runaway40!");?>
